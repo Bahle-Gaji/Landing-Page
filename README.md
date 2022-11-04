@@ -9,4 +9,4 @@ The Odin Project Landing Page Repo
 
 3. yamaha-MT07; Photo by Jakub Sisulak: https://www.pexels.com/photo/black-motorcycle-parked-near-the-metal-railings-6940040/
 
-4.yamaha-VMax; Photo by Labskiii: https://www.pexels.com/photo/black-motor-scooted-parked-on-the-street-6012976/
+4. yamaha-VMax; Photo by Labskiii: https://www.pexels.com/photo/black-motor-scooted-parked-on-the-street-6012976/
