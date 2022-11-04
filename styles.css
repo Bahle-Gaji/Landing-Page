@@ -80,15 +80,14 @@
 /* Info section styling  */
 
 .info {
-    margin: 20px 50px 0 0;
+    margin: 50px 0;
     padding: 10px;
 }
 
 .info-text {
     font-size: 40px;
-    font-weight: bold;
+    font-weight: 800;
     text-align: center;
-    margin: 10px;
     padding: 10px;
 }
 
@@ -116,6 +115,53 @@
     color: white;
     border: rgb(202, 10, 10) solid 1px /*delete */
 }
+
+/* Quote section styling */
+
+.quote {
+    display: flex;
+    justify-content: center;
+    margin: 50px 0;
+    padding: 50px;
+    background-color: #e5e7eb;
+    border: rgb(202, 10, 10) solid 1px /*delete */
+}
+
+.quote-text {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 300;
+    color: #1f2937;
+    border: rgb(202, 10, 10) solid 1px; /*delete */
+}
+
+.author {
+    text-align: end;
+    border: rgb(202, 10, 10) solid 1px; /*delete */
+    margin: 5px
+}
+
+/* Sign up section styling */
+
+.sign-up {
+    background-color: #3882f6;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px;
+    margin: 0 50px 30px 30px;
+    border-radius: 10px;
+}
+
+button {
+    background-color: #3882f6;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    border: white 1px solid;
+}
+
 
 /* Footer section styling  
 .footer {
