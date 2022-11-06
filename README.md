@@ -1,6 +1,10 @@
 # Landing-Page
 The Odin Project Landing Page Repo
 
+This is a TOP (The Odin Project) project where a Landing Page website will be made. Here is the link: https://www.theodinproject.com/lessons/foundations-landing-page
+
+Given a layout we need to make a Landing Page as close to the layout guidelines as we want. I took the liberty of changing it up a little bit into something I like. Used HTML and CSS for this project.
+
 
 ## Photo Credits
 1. harley-davidson-motor-bike-drawing; https://toppng.com/free-image/harley-davidson-motor-bike-drawings-PNG-free-PNG-Images_82320
