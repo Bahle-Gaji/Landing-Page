@@ -52,11 +52,11 @@
     justify-content: space-between;
     align-items: center;
     gap: 100px;
-    border: rgb(202, 10, 10) solid 1px;
+    /* border: rgb(202, 10, 10) solid 1px; */
 }
 
 .header-info img {
-    border: rgb(202, 10, 10) solid 1px;
+    /* border: rgb(202, 10, 10) solid 1px; */
 }
 
 .hero-main {
