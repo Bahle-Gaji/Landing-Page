@@ -1,7 +1,8 @@
 # Landing-Page
 The Odin Project Landing Page Repo
 
-# Preview 
+View Here:
+
 https://bahle-gaji.github.io/Landing-Page/
 
 This is a TOP (The Odin Project) project where a Landing Page website will be made. Here is the link: https://www.theodinproject.com/lessons/foundations-landing-page
